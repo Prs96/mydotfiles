@@ -1,6 +1,7 @@
 alias rm='mv --target-directory=$HOME/.trash'
 alias rmd='/bin/rm  --recursive --force --verbose '
 alias restart-nm='sudo systemctl restart NetworkManager'
+alias rmt ='rm'
 
 #file search alias
 alias la='ls -Alh'                # show hidden files
