@@ -11,7 +11,7 @@
 
 /* ---- Configuration ---- */
 configuration {
-    modi:                       "drun,run";
+    modi:                       "drun,run,emoji";
     font:                       "Fira Sans 11";
     show-icons:                 true;
     icon-theme:                 "kora";
