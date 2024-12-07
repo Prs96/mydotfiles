@@ -2,6 +2,7 @@ alias rm='mv --target-directory=$HOME/.trash'
 alias rmd='/bin/rm  --recursive --force --verbose '
 alias restart-nm='sudo systemctl restart NetworkManager'
 alias rmt='\rm -rf ~/.trash/{*,.*}'
+alias save-packs='pacman -Qqe > ~/.pacman-packs.txt && paru -Qqe > ~/.paru-packs.txt'
 
 #file search alias
 alias la='ls -Alh'                # show hidden files
@@ -41,3 +42,5 @@ alias ....='cd ../../..'
 alias .....='cd ../../../..'
 
 alias waybar='~/.config/waybar/launch.sh'
+
+export GOPATH=~/.go/
