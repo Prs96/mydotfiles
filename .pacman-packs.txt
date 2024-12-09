@@ -58,13 +58,12 @@ linux-lts
 linux-lts-headers
 lsof
 lutris
+lynis
 mangohud
 ml4w-hyprland
 mpc
 mpd
 mtpfs
-nautilus
-nautilus-open-any-terminal
 ncmpcpp
 nemo
 nemo-audio-tab
@@ -117,6 +116,7 @@ ttf-fira-code
 ttf-fira-sans
 ttf-firacode-nerd
 tumbler
+ufw
 vlc
 vulkan-tools
 waybar
