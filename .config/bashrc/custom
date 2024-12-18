@@ -2,7 +2,7 @@ alias rm='mv --target-directory=$HOME/.trash'
 alias rmd='/bin/rm  --recursive --force --verbose '
 alias restart-nm='sudo systemctl restart NetworkManager'
 alias rmt='\rm -rf ~/.trash/{*,.*}'
-alias save-packs='pacman -Qqe > ~/.pacman-packs.txt && paru -Qqe > ~/.paru-packs.txt'
+alias save-packs='pacman -Qqe > ~/.pacman-packs.txt'
 alias disk='ncdu'
 
 #file search alias

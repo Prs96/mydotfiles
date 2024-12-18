@@ -1,3 +1,4 @@
+acpi
 alacritty
 amd-ucode
 ani-cli
@@ -11,11 +12,11 @@ brightnessctl
 catppuccin-gtk-theme-mocha
 cava
 cliphist
+cmatrix
 dosfstools
 dpkg
 efibootmgr
 exfatprogs
-eza
 fastfetch
 feh
 firefox
@@ -37,6 +38,7 @@ gvfs
 gvfs-gphoto2
 gvfs-mtp
 hdparm
+hollywood
 htop
 hyprland
 hyprshade
@@ -50,6 +52,7 @@ lib32-gamemode
 lib32-nvidia-utils
 libadwaita
 libpulse
+libreoffice-fresh
 linutil
 linux
 linux-firmware
@@ -64,6 +67,7 @@ ml4w-hyprland
 mpc
 mpd
 mtpfs
+ncdu
 ncmpcpp
 nemo
 nemo-audio-tab
@@ -76,6 +80,7 @@ nicotine+
 nm-connection-editor
 ntfs-3g
 nvidia
+nvidia-prime
 nvidia-settings
 nwg-look
 oh-my-posh-bin
@@ -91,6 +96,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 polkit-gnome
+power-profiles-daemon
 python-gobject
 python-pip
 python-pywal
@@ -106,17 +112,18 @@ rustup
 s-tui
 sddm
 slurp
+stacer-bin
 steam
 telegram-desktop
 testdisk
 timeshift
-tlp
 tree
 ttf-fira-code
 ttf-fira-sans
 ttf-firacode-nerd
 tumbler
 ufw
+ventoy-bin
 vlc
 vulkan-tools
 waybar
@@ -127,7 +134,7 @@ wlogout
 xclip
 xdg-desktop-portal-gtk
 xorg-xhost
-yay-debug
+yazi
 zen-browser-bin
 zram-generator
 zsh
