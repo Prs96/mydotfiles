@@ -1,8 +1,8 @@
 sw_volume: 100
 audio_device_state:1:MPD Pipewire
-state: pause
-current: 0
-time: 166.807000
+state: play
+current: 94
+time: 117.206000
 random: 0
 repeat: 0
 single: 0
@@ -105,4 +105,5 @@ playlist_begin
 91:02 - Blood Sweat & Tears.flac
 92:09 - Everyday Normal Guy 2.flac
 93:10 - Without Me.flac
+94:172 - [Aerosmith] Dream On.flac
 playlist_end
