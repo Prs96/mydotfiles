@@ -17,6 +17,7 @@ dosfstools
 dpkg
 efibootmgr
 exfatprogs
+eza
 fastfetch
 feh
 firefox
@@ -41,6 +42,7 @@ hdparm
 hollywood
 htop
 hyprland
+hyprland-qtutils
 hyprshade
 hyprshot
 icat
@@ -67,6 +69,8 @@ ml4w-hyprland
 mpc
 mpd
 mtpfs
+nautilus
+nautilus-open-any-terminal
 ncdu
 ncmpcpp
 nemo
@@ -82,6 +86,7 @@ ntfs-3g
 nvidia
 nvidia-prime
 nvidia-settings
+nwg-dock-hyprland
 nwg-look
 oh-my-posh-bin
 otf-font-awesome
@@ -107,6 +112,7 @@ qt5-graphicaleffects
 qt5-quickcontrols2
 qt5-svg
 qt6ct
+rar
 rofi-wayland
 rustup
 s-tui
@@ -117,6 +123,7 @@ steam
 telegram-desktop
 testdisk
 timeshift
+timidity++
 tree
 ttf-fira-code
 ttf-fira-sans

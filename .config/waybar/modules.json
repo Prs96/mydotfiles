@@ -6,6 +6,7 @@
 //
 //
 {
+
   // Workspaces
   "hyprland/workspaces": {
     "on-scroll-up": "hyprctl dispatch workspace r-1",
@@ -13,11 +14,11 @@
     "on-click": "activate",
     "active-only": false,
     "all-outputs": true,
-    "format": "{}",
+    "format": "{icon}",
     "format-icons": {
-      "urgent": "",
-      "active": "",
-      "default": ""
+      "urgent": "◉",
+      "active": "◉",
+      "default": "◉"
     },
     "persistent-workspaces": {
       "*": 3
@@ -91,56 +92,12 @@
     "on-click": "$(cat ~/.config/ml4w/settings/terminal.sh) --class dotfiles-floating -e ~/.config/ml4w/scripts/installupdates.sh",
     "on-click-right": "~/.config/ml4w/settings/software.sh"
   },
-
-  // Wallpaper
-  "custom/wallpaper": {
-    "format": "",
-    "on-click": "waypaper",
-    "on-click-right": "~/.config/hypr/scripts/wallpaper-effects.sh",
-    "tooltip-format": "Left: Select a wallpaper\nRight: Select wallpaper effect"
-  },
-
-  // Waybar Themes
-  "custom/waybarthemes": {
-    "format": "",
-    "on-click": "~/.config/waybar/themeswitcher.sh",
-    "tooltip-format": "Select a waybar theme"
-  },
-
-  // Settings
-  "custom/settings": {
-    "format": "",
-    "on-click": "sleep 0.1 && com.ml4w.dotfilessettings",
-    "tooltip-format": "Settings"
-  },
-
-  // Keybindings
   "custom/keybindings": {
     "format": "",
     "on-click": "~/.config/hypr/scripts/keybindings.sh",
     "tooltip": false
   },
 
-  // ChatGPT Launcher
-  "custom/chatgpt": {
-    "format": " ",
-    "on-click": "~/.config/ml4w/settings/ai.sh",
-    "tooltip-format": "AI Support"
-  },
-
-  // Calculator
-  "custom/calculator": {
-    "format": "",
-    "on-click": "qalculate-gtk",
-    "tooltip-format": "Open calculator"
-  },
-
-  // Windows VM
-  "custom/windowsvm": {
-    "format": "",
-    "on-click": "~/.config/ml4w/scripts/launchvm.sh",
-    "tooltip": false
-  },
 
   // Rofi Application Launcher
   "custom/appmenu": {
@@ -164,17 +121,17 @@
   // Power Menu
   "custom/exit": {
     "format": "",
-    "on-click": "~/.config/ml4w/scripts/wlogout.sh",
+    "on-click": "wlogout",
     "tooltip-format": "Power Menu"
   },
 
   // Hyprshade
- // "custom/hyprshade": {
- //   "format": "",
- //   "tooltip-format": "Toggle Screen Shader",
- //   "on-click": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh",
- //   "on-click-right": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh rofi"
- // },
+  "custom/hyprshade": {
+    "format": "",
+    "tooltip-format": "Toggle Screen Shader",
+    "on-click": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh",
+    "on-click-right": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh rofi"
+  },
 
   // Hypridle inhibitor
   "custom/hypridle": {
