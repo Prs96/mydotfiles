@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:MPD Pipewire
 audio_device_state:1:my_fifo
 state: pause
-current: 75
-time: 5.566000
+current: 8
+time: 226.612000
 random: 1
 repeat: 0
 single: 0
@@ -63,8 +63,8 @@ playlist_begin
 48:Nirvana - Something In The Way (Album Version).flac
 49:NCTS - NEXT!.flac
 50:NCTS - NEXT! (Slowed).flac
-51:NCTS - NEXT! (Sped Up).flac
-52:Imagine Dragons - Radioactive.flac
+51:Imagine Dragons - Radioactive.flac
+52:NCTS - NEXT! (Sped Up).flac
 53:01. Do Ya Wanna Taste It.flac
 54:1. Not Like Us.flac
 55:3-11 One Direction - What Makes You Beautiful.flac
@@ -112,4 +112,5 @@ playlist_begin
 97:09 - Everyday Normal Guy 2.flac
 98:WOLFIE • ☆ - 𝘍𝘢𝘳𝘣𝘦𝘯 (𝙎𝙡𝙤𝙬𝙚𝙙).flac
 99:Orange Sector - Farben.flac
+100:Santhosh Venky - Asuran.flac
 playlist_end
