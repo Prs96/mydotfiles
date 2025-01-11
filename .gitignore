@@ -1,6 +1,1 @@
-~/dotfiles/.mpd/database
-~/dotfiles/.mpd/log
-~/dotfiles/.mpd/state
-~/dotfiles/.mpd/pid
-~/dotfiles/.mpd/sticker.sql
-~/dotfiles/.mpd/playlists/
+.mpd/database
