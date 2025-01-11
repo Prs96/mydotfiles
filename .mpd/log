@@ -726,3 +726,30 @@ Jan 01 17:46 : player: played "Lady Gaga - Die With A Smile.flac"
 Jan 01 17:49 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
 Jan 01 17:49 : player: played "13. One Direction - Drag Me Down.flac"
 Jan 01 22:54 : player: played "03 Centuries.flac"
+Jan 02 12:20 : player: played "Santhosh Venky - Asuran.flac"
+Jan 02 12:23 : player: played "Santhosh Venky - Asuran.flac"
+Jan 02 15:59 : player: played "Tears For Fears - Everybody Wants To Rule The World.flac"
+Jan 02 17:02 : player: played "09 - Everyday Normal Guy 2.flac"
+Jan 02 23:38 : player: played "09 - Everyday Normal Guy 2.flac"
+Jan 04 01:28 : player: played "CARNIVAL (feat. Rich The Kid, Playboi Carti).flac"
+Jan 04 11:25 : update: added /Sabrina Carpenter - Espresso (Decaf Version).flac
+Jan 04 11:25 : update: added /Sabrina Carpenter - Espresso.flac
+Jan 04 11:29 : player: played "Sabrina Carpenter - Espresso.flac"
+Jan 04 14:04 : player: played "Sabrina Carpenter - Espresso (Decaf Version).flac"
+Jan 04 14:08 : update: added /$latti - Timeless Guitar Remix.flac
+Jan 04 19:23 : player: played "$latti - Timeless Guitar Remix.flac"
+Jan 05 00:30 : player: played "$latti - Timeless Guitar Remix.flac"
+Jan 05 19:32 : player: played "$latti - Timeless Guitar Remix.flac"
+Jan 05 19:36 : player: played "Sabrina Carpenter - Espresso (Decaf Version).flac"
+Jan 05 19:39 : player: played "Sabrina Carpenter - Espresso.flac"
+Jan 05 19:49 : player: played "$latti - Timeless Guitar Remix.flac"
+Jan 05 19:53 : player: played "The Neighbourhood - Softcore.flac"
+Jan 05 19:56 : player: played "1-Imagine-Dragons-Bones-PXP165.flac"
+Jan 05 19:59 : player: played "Santhosh Venky - Asuran.flac"
+Jan 05 23:23 : player: played "NCTS - NEXT! (Sped Up).flac"
+Jan 07 00:18 : player: played "NCTS - NEXT! (Sped Up).flac"
+Jan 07 17:00 : player: played "NCTS - NEXT! (Sped Up).flac"
+Jan 08 00:09 : player: played "NCTS - NEXT! (Sped Up).flac"
+Jan 09 00:52 : player: played "NCTS - NEXT! (Sped Up).flac"
+Jan 11 12:13 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jan 11 12:13 : pipewire_output: Decoder is too slow; playing silence to avoid xrun

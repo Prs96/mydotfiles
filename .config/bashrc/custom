@@ -4,6 +4,7 @@ alias restart-nm='sudo systemctl restart NetworkManager'
 alias rmt='\rm -rf ~/.trash/{*,.*}'
 alias save-packs='pacman -Qqe > ~/.pacman-packs.txt'
 alias disk='ncdu'
+alias py='python3'
 
 #file search alias
 alias la='ls -Alh'                # show hidden files

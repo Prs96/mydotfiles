@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:MPD Pipewire
 audio_device_state:1:my_fifo
 state: pause
-current: 8
-time: 226.612000
+current: 99
+time: 185.491000
 random: 1
 repeat: 0
 single: 0
@@ -111,6 +111,9 @@ playlist_begin
 96:02 - Blood Sweat & Tears.flac
 97:09 - Everyday Normal Guy 2.flac
 98:WOLFIE • ☆ - 𝘍𝘢𝘳𝘣𝘦𝘯 (𝙎𝙡𝙤𝙬𝙚𝙙).flac
-99:Orange Sector - Farben.flac
-100:Santhosh Venky - Asuran.flac
+99:Santhosh Venky - Asuran.flac
+100:Orange Sector - Farben.flac
+101:Sabrina Carpenter - Espresso.flac
+102:Sabrina Carpenter - Espresso (Decaf Version).flac
+103:$latti - Timeless Guitar Remix.flac
 playlist_end

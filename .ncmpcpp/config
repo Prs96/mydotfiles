@@ -21,8 +21,8 @@ playlist_editor_display_mode = "columns"
 colors_enabled = "yes"
 
 # Song format
-song_list_format = "{%a - }{%t}|{$8%f$9}$R{$3(%l)$9}"
-song_status_format = "{{%a{ \"%b\"{ (%y)}} - }{%t}}|{%f}"
+song_list_format = "{%a - }{%t}|{$8%f$9}$R{$3(%l)$9} {%b kbps}"
+song_status_format = "{{%a{ \"%b kbps\"{ (%y)}} - }{%t}}|{%f}"
 
 # Progress bar
 progressbar_look = "━━━"
@@ -37,3 +37,5 @@ titles_visibility = yes
 mouse_support = "yes"
 follow_now_playing_lyrics = "yes"
 fetch_lyrics_for_current_song_in_background = "yes"
+
+display_bitrate = "yes"
