@@ -5,6 +5,8 @@ alias rmt='\rm -rf ~/.trash/{*,.*}'
 alias save-packs='pacman -Qqe > ~/.pacman-packs.txt'
 alias disk='ncdu'
 alias py='python3'
+alias cat='bat'
+alias ver='cat /etc/os-release'
 
 #file search alias
 alias la='ls -Alh'                # show hidden files
