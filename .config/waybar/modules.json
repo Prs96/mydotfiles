@@ -74,13 +74,13 @@
   },
 
   // Cliphist
-  "custom/cliphist": {
-    "format": "",
-    "on-click": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh",
-    "on-click-right": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh d",
-    "on-click-middle": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh w",
-    "tooltip-format": "Clipboard Manager"
-  },
+ // "custom/cliphist": {
+   // "format": "",
+   // "on-click": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh",
+    //"on-click-right": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh d",
+   // "on-click-middle": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh w",
+   // "tooltip-format": "Clipboard Manager"
+  //},
 
   // Updates Count
   "custom/updates": {
@@ -125,14 +125,7 @@
     "tooltip-format": "Power Menu"
   },
 
-  // Hyprshade
-  "custom/hyprshade": {
-    "format": "",
-    "tooltip-format": "Toggle Screen Shader",
-    "on-click": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh",
-    "on-click-right": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh rofi"
-  },
-
+  
   // Hypridle inhibitor
   "custom/hypridle": {
     "format": "",
@@ -178,7 +171,7 @@
   // CPU
   "cpu": {
     "format": "/ C {usage}% ",
-    "on-click": "~/.config/ml4w/settings/system-monitor.sh"
+    "on-click": "~/.config/ml4w/settings/system-monitor.sh && ~/.config/hypr/scripts/btop-pywal.sh"
   },
 
   // Memory
